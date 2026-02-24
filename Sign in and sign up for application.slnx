@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <Solution>
   <Project Path="Sign in and sign up for application/Sign in and sign up for application.csproj" Id="926783b9-e106-4cd8-94bb-193b01e2a107" />
 </Solution>
+=======
+<Solution>
+  <Project Path="Sign in and sign up for application/Sign in and sign up for application.csproj" Id="926783b9-e106-4cd8-94bb-193b01e2a107" />
+</Solution>
+>>>>>>> 27f7e03cc06a5c8966986384732c82708585c5ea
